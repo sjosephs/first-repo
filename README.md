@@ -2,3 +2,15 @@
 First Repo example for Boldo cohort
 Today we are going to learn Github and Markdown
 This is just the begining.
+
+## List in MD
+
+### Order List.
+  1. First item
+  2. Second item
+  3. Third item
+
+### unorder List
+  - First item
+  - Second item
+  - Third item
