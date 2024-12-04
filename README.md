@@ -18,3 +18,10 @@ This is just the begining.
 ## Link a page
 
 [Spiced Academy](https://www.spiced-academy.com/en)
+
+
+## Code
+
+## Code Line
+
+We add a 'line' of code
