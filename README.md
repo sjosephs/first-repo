@@ -14,3 +14,7 @@ This is just the begining.
   - First item
   - Second item
   - Third item
+
+## Link a page
+
+[Spiced Academy](https://www.spiced-academy.com/en)
