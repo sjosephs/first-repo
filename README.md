@@ -31,3 +31,5 @@ We add a `line` of code
 let cohort = "Boldo";
 let amountStudent = 8;
 ```
+## Images
+![peacock](./peacock.jpeg)
