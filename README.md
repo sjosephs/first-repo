@@ -24,4 +24,10 @@ This is just the begining.
 
 ## Code Line
 
-We add a 'line' of code
+We add a `line` of code
+
+###  Code Block
+```js
+let cohort = "Boldo";
+let amountStudent = 8;
+```
